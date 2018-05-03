@@ -1,0 +1,12 @@
+
+    To compile, go to the sources folder (in the terminal) and type: 
+
+        javac -d . *.java
+
+    To run the server, go to the sources folder and type:
+
+        java dsd.timers.server.app.ServerApp
+
+    To run the client(s), go to the sources folder and type:
+
+        java dsd.timers.client.app.ClientApp

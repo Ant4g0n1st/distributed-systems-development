@@ -1,0 +1,17 @@
+Compile instructions: 
+
+    In the folder with all the sources:
+
+        javac -d . *.java
+
+Run instructions:
+    
+    Again, folder with all the sources:
+
+        - Run server:
+    
+            java dsd.TimerServer
+
+        - Run client(s):
+
+            java dsd.TimerApp

@@ -1,0 +1,11 @@
+Compile instructions: 
+
+    In the folder with all the sources:
+
+        javac -d . *.java
+
+Run instructions:
+    
+    Again, folder with all the sources:
+    
+        java dsd.timers.app.TimerApp
